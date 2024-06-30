@@ -1,0 +1,5 @@
+cd mygpg
+gpg --import *
+cd -
+gpg --edit-key evander
+clear
